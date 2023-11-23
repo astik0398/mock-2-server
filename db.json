@@ -1,6 +1,6 @@
 
 {
-  "users": [
+  "freelancers": [
     {
       "id": 1,
       "name": "John Doe",
@@ -9,7 +9,7 @@
       "profession": "Web Developer",
       "skills": ["HTML", "CSS", "JavaScript"],
       "hourly_rate": 25,
-      "profile_picture": "profile1.jpg",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRS0mofvZhLkaNJFVN9wSA-j7HhTb4nLPb6Nbi7qvfw&s",
 			"isBooked" : false
     },
     {
@@ -20,7 +20,7 @@
       "profession": "Graphic Designer",
       "skills": ["Photoshop", "Illustrator"],
       "hourly_rate": 30,
-      "profile_picture": "profile2.jpg",
+      "profile_picture": "https://play-lh.googleusercontent.com/2UGOJ5CQOqOOkT0At0xS66-vPEmF17ygkXHBYbtjwD6MBnVShA9L3DLHGzc4eGvr9opx",
 			"isBooked" : true
     }
   ]
